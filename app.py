@@ -8,7 +8,7 @@ from resources.item import blp as ItemBlueprint
 from resources.store import blp as StoreBlueprint
 from resources.tag import blp as TagBlueprint
 from resources.user import blp as UserBlueprint
-# test 6
+# test 6-1
 
 
 def create_app(db_url=None):
